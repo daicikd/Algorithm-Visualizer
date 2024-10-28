@@ -2,7 +2,7 @@
 
 <p>
 
-The Algorithm Visualizer is a simple web-based tool built with HTML, CSS, and JavaScript that helps users see how sorting algorithms work step-by-step. The project visually represents algorithms like Bubble Sort and Selection Sort by displaying bars of different heights that move and rearrange as they are sorted. 
+The Algorithm Visualizer is a simple web-based tool built with **HTML, CSS, and JavaScript** that helps users see how sorting algorithms work step-by-step. The project visually represents algorithms like **Bubble Sort** and **Selection Sort** by displaying bars of different heights that move and rearrange as they are sorted. 
 
 - HTML provides the structure of the page, such as buttons and containers.
 - CSS styles the bars, buttons, and layout, making the visualizer look neat and engaging.
